@@ -1,0 +1,29 @@
+$navbar-default-bg: #821F80;
+$navbar-default-brand-color:#0BA086;
+$navbar-default-link-color: #0BA086;
+$navbar-default-link-hover-bg: lighten(#0BA086, 10%);
+
+
+
+li.link{
+	margin-left: 5%;
+	margin-right: 2%;
+	padding-right: 1%;
+	padding-left: 2%;
+
+}
+
+/*.a {
+	margin-left: 2%;
+	margin-right: 2%;
+	padding-right: 1%;
+	padding-left: 1%;
+
+}*/
+
+section.home{
+	text-align: center;
+}
+
+@import "bootstrap-sprockets";
+@import "bootstrap";
